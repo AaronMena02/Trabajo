@@ -1,0 +1,35 @@
+*{
+    padding:0;
+    margin:0;
+    font-family: arial;
+}
+
+.header {
+    background-color: #1EAAF1;
+    color:white;
+    padding:20px;
+    width: 80%;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    font-weight: lighter;
+    margin-left:135px;
+}  
+body#form{
+    justify-content: center;
+    align-items: center;
+    height:750px;
+}  
+ .nav-enlace{
+    background:#DDCED3;
+    padding: 10px 30px;
+    display:inline-block;
+}
+.form{
+    background-color: #6ADFBB
+}
+.container .form{
+    display:flex;
+    width:500px;
+    height:750px;
+}
